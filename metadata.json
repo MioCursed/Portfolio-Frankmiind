@@ -1,0 +1,8 @@
+{
+  "name": "FrankMiind Modern Portfolio",
+  "description": "Migrated portfolio with a responsive Tailwind CSS design, featuring smooth animations while preserving your original structure and content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
